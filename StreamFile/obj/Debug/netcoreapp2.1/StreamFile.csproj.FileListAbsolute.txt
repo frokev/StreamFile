@@ -1,0 +1,11 @@
+C:\Learning\Network C#\StreamFile\StreamFile\bin\Debug\netcoreapp2.1\StreamFile.deps.json
+C:\Learning\Network C#\StreamFile\StreamFile\bin\Debug\netcoreapp2.1\StreamFile.runtimeconfig.json
+C:\Learning\Network C#\StreamFile\StreamFile\bin\Debug\netcoreapp2.1\StreamFile.runtimeconfig.dev.json
+C:\Learning\Network C#\StreamFile\StreamFile\bin\Debug\netcoreapp2.1\StreamFile.dll
+C:\Learning\Network C#\StreamFile\StreamFile\bin\Debug\netcoreapp2.1\StreamFile.pdb
+C:\Learning\Network C#\StreamFile\StreamFile\obj\Debug\netcoreapp2.1\StreamFile.csprojAssemblyReference.cache
+C:\Learning\Network C#\StreamFile\StreamFile\obj\Debug\netcoreapp2.1\StreamFile.csproj.CoreCompileInputs.cache
+C:\Learning\Network C#\StreamFile\StreamFile\obj\Debug\netcoreapp2.1\StreamFile.AssemblyInfoInputs.cache
+C:\Learning\Network C#\StreamFile\StreamFile\obj\Debug\netcoreapp2.1\StreamFile.AssemblyInfo.cs
+C:\Learning\Network C#\StreamFile\StreamFile\obj\Debug\netcoreapp2.1\StreamFile.dll
+C:\Learning\Network C#\StreamFile\StreamFile\obj\Debug\netcoreapp2.1\StreamFile.pdb
